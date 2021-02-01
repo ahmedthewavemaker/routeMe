@@ -12,6 +12,7 @@ function Home() {
                 <li>Home</li>
                 <li><Link to='/about'>About</Link></li>
                 <li><Link to='/contact'>Contact</Link></li>
+                <li><Link to ='/contact/:id'>List</Link></li>
             </ul>
         </div>
     )
